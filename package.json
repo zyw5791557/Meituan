@@ -1,0 +1,28 @@
+{
+  "name": "md",
+  "version": "1.0.0",
+  "description": "Meituan",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.13",
+    "gulp-concat": "^2.6.0",
+    "gulp-less": "^3.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.0.0",
+    "gulp-watch": "^4.3.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "xixi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://www.meituan.com"
+  },
+  "keywords": [
+    "123456"
+  ],
+  "author": "Emlice",
+  "license": "ISC"
+}
